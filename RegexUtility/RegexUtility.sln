@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexUtility", "RegexUtility\RegexUtility.csproj", "{ADC66736-26C4-4A57-9B8C-9CF1EEF09B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC66736-26C4-4A57-9B8C-9CF1EEF09B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC66736-26C4-4A57-9B8C-9CF1EEF09B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC66736-26C4-4A57-9B8C-9CF1EEF09B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC66736-26C4-4A57-9B8C-9CF1EEF09B31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

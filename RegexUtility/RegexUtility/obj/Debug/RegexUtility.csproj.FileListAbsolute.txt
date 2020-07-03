@@ -1,0 +1,14 @@
+D:\C#\s#\RegexUtility\RegexUtility\RegexUtility\bin\Debug\RegexUtility.dll
+D:\C#\s#\RegexUtility\RegexUtility\RegexUtility\bin\Debug\RegexUtility.pdb
+D:\C#\s#\RegexUtility\RegexUtility\RegexUtility\bin\Debug\SimplSharpCustomAttributesInterface.dll
+D:\C#\s#\RegexUtility\RegexUtility\RegexUtility\bin\Debug\SimplSharpHelperInterface.dll
+D:\C#\s#\RegexUtility\RegexUtility\RegexUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\s#\RegexUtility\RegexUtility\RegexUtility\obj\Debug\RegexUtility.dll
+D:\C#\s#\RegexUtility\RegexUtility\RegexUtility\obj\Debug\RegexUtility.pdb
+E:\C#\s#\RegexUtility\RegexUtility\RegexUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\s#\RegexUtility\RegexUtility\RegexUtility\bin\Debug\RegexUtility.dll
+E:\C#\s#\RegexUtility\RegexUtility\RegexUtility\bin\Debug\RegexUtility.pdb
+E:\C#\s#\RegexUtility\RegexUtility\RegexUtility\bin\Debug\SimplSharpCustomAttributesInterface.dll
+E:\C#\s#\RegexUtility\RegexUtility\RegexUtility\bin\Debug\SimplSharpHelperInterface.dll
+E:\C#\s#\RegexUtility\RegexUtility\RegexUtility\obj\Debug\RegexUtility.dll
+E:\C#\s#\RegexUtility\RegexUtility\RegexUtility\obj\Debug\RegexUtility.pdb

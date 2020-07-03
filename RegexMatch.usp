@@ -1,0 +1,35 @@
+// #DEFINE_CONSTANT DEBUG 1
+#DEFINE_CONSTANT BUFFER_SIZE 255
+#DEFINE_CONSTANT PULSE_TIME 25
+#DEFAULT_VOLATILE
+#ENABLE_STACK_CHECKING
+#ENABLE_TRACE
+#ENCODING_ASCII
+
+#user_simplsharp_library "RegexUtility"
+
+digital_input Match;
+string_input Pattern[BUFFER_SIZE], TestString[BUFFER_SIZE];
+digital_output MatchFound;
+string_output TestMatchResult;
+
+RegexUtil regex;
+
+push Match
+{
+    integer found;
+    found = regex.TestMatch(TestString, Pattern);
+    if(found)
+        pulse(PULSE_TIME, MatchFound);
+}
+
+callback function SingleMatchCallbackHandler(string re)
+{
+    TestMatchResult = re;
+}
+
+Function Main()
+{
+    waitForInitializationComplete();
+    registerDelegate(regex, ReturnSingleMatchDelegate, SingleMatchCallbackHandler);
+}
